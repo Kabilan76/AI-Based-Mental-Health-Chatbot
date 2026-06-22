@@ -2,8 +2,7 @@
 
 This project is a simple AI-powered Mental Health Chatbot built using Flask and spaCy. The chatbot analyzes user messages to identify basic emotional states such as sadness, happiness, and stress, and responds with supportive and encouraging messages.
 
-## Feature
-
+## Features
 * REST API built with Flask.
 * Basic sentiment detection using keyword-based analysis.
 * Uses spaCy for Natural Language Processing (NLP).
